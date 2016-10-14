@@ -1,0 +1,14 @@
+				COXYBURGER
+
+commande : 3
+
+
+4*Petite frite                  				2.1€
+3*Hamburger                     				2.2€
+
+-------------------------------------------------------------------
+Total :    15.0€
+
+
+		Vous avez été servi par Cheron Alain
+		Merci pour votre visite et à bientôt!
